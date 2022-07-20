@@ -13,7 +13,7 @@ Please review official site page (http://opcfoundation.github.io/UA-Java-Legacy/
  * Sample Applications overview
 
 ## About this fork
-* JDK requirements in `pom.xml` and examples/basic/`pom.xml` were changed from 1.6 to 1.8
+* JDK requirements in `pom.xml` and `examples/basic/pom.xml` were changed from 1.6 to 1.8
 * JDK being used 1.8.0_232 64Bit
 
 ### Build Steps
