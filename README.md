@@ -24,9 +24,12 @@ Please review official site page (http://opcfoundation.github.io/UA-Java-Legacy/
  * In Eclipse import existing Maven projects, select main
  * In Eclipse import existing Maven projects, select examples
  
-**Note** When launching one of the examples - if Eclipse tells you, your selected Java doesn't contain a `main` type, most likely you are
-trying to launch from the wrong location. Make sure, you launch it from the examples project.
- 
+
+> **Tip!** When launching one of the examples, Eclipse may tell you, your selected Java class does not contain a `main` type. In this case, most likely, you are
+>trying to launch it from the wrong location.
+>
+>Make sure, you launch the application from the `examples` project.
+
 ## Recommended Development Environment
 Note these are recommended, earlier versions might work.
 
