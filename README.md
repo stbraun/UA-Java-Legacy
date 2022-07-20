@@ -12,6 +12,21 @@ Please review official site page (http://opcfoundation.github.io/UA-Java-Legacy/
  * Licensing
  * Sample Applications overview
 
+## About this fork
+* JDK requirements in `pom.xml` and examples/basic/`pom.xml` were changed from 1.6 to 1.8
+* JDK being used 1.8.0_232 64Bit
+
+### Build Steps
+ * build main project
+ * deploy main project
+ * build examples project
+ 
+ * In Eclipse import existing Maven projects, select main
+ * In Eclipse import existing Maven projects, select examples
+ 
+**Note** When launching one of the examples - if Eclipse tells you, your selected Java doesn't contain a `main` type, most likely you are
+trying to launch from the wrong location. Make sure, you launch it from the examples project.
+ 
 ## Recommended Development Environment
 Note these are recommended, earlier versions might work.
 
